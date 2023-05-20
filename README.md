@@ -1,5 +1,5 @@
 # Port-Scanner
-Steps for scanning an IP for open ports using nmap library in python:
+Steps for scanning an IP for status of ports using nmap library in python:
 
 1. Select begin and end port
 2. Set target IP which will be your attacker's IP
